@@ -1,0 +1,6 @@
+This is my wiki. There's nothing here yet.
+
+* [[Saladin Style]]
+* [[Never Try to Please Everyone]]
+ 
+All wikis are supposed to have a [[SandBox]], so this one does too.
