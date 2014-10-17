@@ -1,6 +1,7 @@
 This is my wiki. There's nothing here yet.
 
 * [[99 Problems]]
+* [[Hackers and Action Heroes]]
 * [[Saladin Style]]
 * [[Never Try to Please Everyone]]
 * [[WordPress]]
