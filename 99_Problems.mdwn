@@ -1,0 +1,120 @@
+## Original
+
+* [“99 Problems” by Jay-Z](https://en.wikipedia.org/wiki/99_Problems) - “If you're having girl problems, I feel bad for you son, I got 99 problems but a bitch ain’t one”. Chorus taken from [a single by Ice-T](https://en.wikipedia.org/wiki/Home_Invasion_%28album%29).
+  * [Pop cover by Hugo](https://www.youtube.com/watch?v=LloIp0HMJjc) - with a different melody and lyrics.
+
+## xkcd: Perl Problems
+
+[xkcd: Perl problems](http://xkcd.com/1171/):
+
+> Two figures stand facing each other. One is wearing sunglasses.
+>
+> Figure with sunglasses: If you're havin' Perl problems I feel bad for you, son-
+>
+> Figure with sunglasses: I got 99 problems,
+>
+> Figure with sunglasses: so I used regular expressions.
+>
+> Figure with sunglasses: Now I have 100 problems.
+
+## [[edit](http://shlomif.wikia.com/wiki/99_Problems?action=edit&section=3 "Edit section: Problem (Ariana Grande song)")]  Problem (Ariana Grande song)
+
+[wikipedia:Problem (Ariana Grande song)](http://en.wikipedia.org/wiki/Problem_%28Ariana_Grande_song%29 "wikipedia:Problem (Ariana Grande song)")
+
+* "Got one less problem without you."
+* "I've got 99 problems but you won't be one."
+
+* [Cover by Tiffany Alvord and Alex G](https://www.youtube.com/watch?v=4kTUwAreg7c)
+* [Cover by Cimorelli](https://www.youtube.com/watch?v=z_pkqLb3kq0)
+* [Cover by Pentatonix](https://www.youtube.com/watch?v=4Z9b2HiW_L8)
+
+### The Key of Awesome Parody
+
+[Ariana Grande - Problem ft. Iggy Azalea PARODY! Key Of Awesome #87](https://www.youtube.com/watch?v=-koXQqD0p5s)
+
+«Well, it's one less paycheck.»
+
+> How much wood would a woodchuck chuck if a woodchuck could chuck wood, I've got 99 verses, but they ain't that good.
+
+### Bart Baker Parody
+
+[Bart Baker Parody](https://www.youtube.com/watch?v=4_qKaiGqALo)
+
+## Summerschool at the NSA
+
+* [Summer Glau and the two guarding soldiers about problem arithemtics](http://www.shlomifish.org/humour/Summerschool-at-the-NSA/ongoing-text.html#getting_clearance__at_the_guards):
+
+<br />
+
+> SGlau: So? How’s life?
+>
+> Andrew: It sucks.
+>
+> Daniel: Yes, it sucks.
+>
+> SGlau: Ninety-nine problems, eh?
+>
+> Daniel: And a bitch ain’t one? yes!
+>
+> Andrew: Actually, I have a hundred problems.
+>
+> SGlau: Ah, a significant other?
+>
+> Andrew: Yes, and me being a soldier here makes her really bitchy.
+>
+> SGlau: Nice, what is her name?
+>
+> Andrew: Her name is Felicia, Ma’am.
+>
+> SGlau: Nice name.
+>
+> Andrew: Yes, nice name.
+>
+> SGlau: I suppose serving here at the NSA is also one of your problems?
+>
+> Daniel: Hey, this place is at least ninety of my problems.
+>
+> Andrew: I wish it was less than that for me too. I was actually happier in Afghanistan.
+>
+> .
+>
+> .
+>
+> .
+>
+> SGlau: Yes, you are right. I’m here to kick some serious NSA ass (not in the physical sense, of course), and make sure you two have ten and nine problems respectively.
+>
+> .
+>
+> .
+>
+> .
+>
+> Daniel: Hey! How about one of us escorting you?
+>
+> Andrew: Yeah, but who?
+>
+> Daniel: Andrew, how about you this time?
+>
+> Andrew: Heh — sure! If only to make my girlfriend jealous.
+>
+> SGlau: And more bitchy!
+
+## Shlomi Fish’s Chuck Norris/etc. facts
+
+* [“Chuck Norris has 99 problems including a bitch.”](http://www.shlomifish.org/humour/fortunes/show.cgi?id=shlomif-fact-chuck-86)
+* [“Chuck Norris has 99 problems including a bitch. Summer Glau has exactly 98 problems.”](http://www.shlomifish.org/humour/fortunes/show.cgi?id=shlomif-fact-sglau-13)
+
+## #perl-cats "In Soviet Russia" Fortune
+
+[“I’ve got 99 problems but kent\\n ain’t one.”](http://www.shlomifish.org/humour/fortunes/show.cgi?id=sharp-perl-cats-cats-in-soviet-russia)
+
+## From IRC
+
+	  &lt;rindolf&gt;  Yes, I’m single - I’ve got 99 problems but a bitch ain’t one.
+	  &lt;rindolf&gt;  And yes, I realise that the guy who said that (Jay-Z) now has a 100th problem (a bitch)
+	             and a 101st problem (a child).
+
+(See [“Jay-Z entry” from the Beyoncé wikipedia](http://beyonce.wikia.com/wiki/Jay_Z).)
+
+(**P.S**: and now he reportedly has even more problems: a reported affair with his wife's sister, and a rumored divorce).
