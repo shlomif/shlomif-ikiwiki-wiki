@@ -1,0 +1,42 @@
+## Resources
+
+### Powered by WordPress
+
+[“Powered by WordPress”](https://plus.google.com/+ShlomiFish/posts/A9RkdacDmKC)
+
+> "Powered by WordPress" --&gt; powered by a piece-of-crap Pig-in-a-poke full of extensions that no one knows how they will interfere with you commenting on them \*and\* are necessary for preventing comment spam.
+>
+> The greatest threat to xkcd's stand-in Summer Glau: <http://xkcd.com/406/> .
+>
+> I decided that from now on I'll post every comment to a WordPress blog in the form of a Google+ post or whatever and send the maintainer of the blog a link. Drupal and especially <https://en.wikipedia.org/wiki/Ikiwiki> should both be much better in this , as well as Reddit, YouTube, Google+, Twitter, and usually even Facebook.
+>
+> Another obligatory xkcd:
+>
+> <http://xkcd.com/635/>
+>
+> "Shamefully powered by WordPress." ; "WordPress delande est."
+
+### Summer Glau factoid
+
+[Factoid](http://www.shlomifish.org/humour/fortunes/show.cgi?id=shlomif-fact-sglau-23)
+
+> When wishing to comment on a WordPress blog, Summer Glau finds a new zero-day WordPress SQL injection exploit, and uses it to insert the comment into the database directly, because even she cannot rely on its comment box to work.
+
+### Post to discussions@hamakor
+
+[Post](https://www.mail-archive.com/discussions@hamakor.org.il/msg02394.html)
+
+> <br />
+>  1. WordPress - lots and lots of security holes, too basic functionality by default; requires a bootload of plugins to convert into a usable state which many bloggers won't install; and has lots of bugs - it already ate some of my comments and refused to let me post them again, and the blog owners did not know what to do about it.
+>
+> I think I'll pass.
+>
+> <br />
+
+### “If Web Development Met the DMV”
+
+[Post](http://ihatethesoundsaroundme.com/2014/09/09/if-web-development-met-the-dmv/)
+
+> Using WordPress: Frustrated with your trips to the DMV, you finally give up and hire Toonces the Driving Cat. At first, everything works perfectly, as you only ask him to drive you to work and back home. However, when you ask him to take a different route one day, he quickly starts to become frustrated, and in a state of panic, he drives the both of you off a nearby cliff, where you both perish in a mass of twisted metal.
+
+(Thanks to [http://www.reddit.com/r/ProgrammerHumor/comments/2icta2/when\_wishing\_to\_comment\_on\_a\_wordpress\_blog/cl1w1gm](http://www.reddit.com/r/ProgrammerHumor/comments/2icta2/when_wishing_to_comment_on_a_wordpress_blog/cl1w1gm) ).
