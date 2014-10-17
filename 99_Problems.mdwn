@@ -111,9 +111,9 @@
 
 ## From IRC
 
-	  &lt;rindolf&gt;  Yes, I’m single - I’ve got 99 problems but a bitch ain’t one.
-	  &lt;rindolf&gt;  And yes, I realise that the guy who said that (Jay-Z) now has a 100th problem (a bitch)
-	             and a 101st problem (a child).
+> **rindolf**: Yes, I’m single - I’ve got 99 problems but a bitch ain’t one.
+
+> **rindolf**: And yes, I realise that the guy who said that (Jay-Z) now has a 100th problem (a bitch) and a 101st problem (a child).
 
 (See [“Jay-Z entry” from the Beyoncé wikipedia](http://beyonce.wikia.com/wiki/Jay_Z).)
 
