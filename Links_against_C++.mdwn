@@ -1,0 +1,3 @@
+* [“C++ Joke”](http://shlomif-tech.livejournal.com/63781.html) - by [[Shlomi Fish]]
+* [“Never Trust a Programmer Who Says He Knows C++”](http://lbrandy.com/blog/2010/03/never-trust-a-programmer-who-says-he-knows-c/)
+* [“The Invention of C++ - a nice bit of net lore”](http://artlung.com/smorgasborg/Invention_of_Cplusplus.shtml)
