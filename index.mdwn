@@ -3,6 +3,7 @@ Welcome to the wiki of [Shlomi Fish](http://www.shlomifish.org/) (a.k.a [“Rind
 * [[99 Problems]]
 * [[Encourage criticism and try to get offended]]
 * [[Hackers and Action Heroes]]
+* [[Links against C++]]
 * [[Never Try to Please Everyone]]
 * [[No Consented Sexual Activity is Disrespectful]] 
 * [[Saladin Style]]
