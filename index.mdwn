@@ -3,9 +3,9 @@ Welcome to the wiki of [Shlomi Fish](http://www.shlomifish.org/) (a.k.a [“Rind
 * [[99 Problems]]
 * [[Encourage criticism and try to get offended]]
 * [[Hackers and Action Heroes]]
+* [[Never Try to Please Everyone]]
 * [[No Consented Sexual Activity is Disrespectful]] 
 * [[Saladin Style]]
-* [[Never Try to Please Everyone]]
 * [[WordPress]]
  
 All wikis are supposed to have a [[SandBox]], so this one does too.
