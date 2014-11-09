@@ -2,3 +2,4 @@
 * [“Never Trust a Programmer Who Says He Knows C++”](http://lbrandy.com/blog/2010/03/never-trust-a-programmer-who-says-he-knows-c/)
 * [“The Invention of C++ - a nice bit of net lore”](http://artlung.com/smorgasborg/Invention_of_Cplusplus.shtml)
 * [“Quotes about software”](http://idkn.wordpress.com/2008/11/21/%D7%A6%D7%99%D7%98%D7%95%D7%98%D7%99-%D7%AA%D7%95%D7%9B%D7%A0%D7%94/) - collected by Ido Kanner
+* [C++ quote](http://www.shlomifish.org/humour/fortunes/show.cgi?id=cpp-and-opp) - «C++ supports Object-Oriented Programming, roughly as much as COBOL supports Functional Programming.».
