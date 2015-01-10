@@ -102,6 +102,10 @@ We tend to take offence to things we know are true and an [Elephant in the Room]
 
 «Sticks and stones may break my bones but words are even worse holy shit please dont say mean things to me.»
 
+###   Free Speech from Freenode's Perl Channel
+
+> <b>Thuryn</b>:	Free speech, by definition, means the ability to offend someone. Otherwise, it wouldn't be an issue in the first place.
+
 ##   Note about "Getting Killed" in this day and age
 
 * **Note**: in this day and age, the Internet provides a shield for most "things you can't say" and most people who are blasephemous will usually only get banned from a certain sub-forum (e.g: a subreddit, or an IRC chat room), rather than getting killed like Socrates did, or getting themselves house-confined like Galileo did.
