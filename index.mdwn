@@ -11,3 +11,8 @@ Welcome to the wiki of [Shlomi Fish](http://www.shlomifish.org/) (a.k.a [“Rind
 * [[WordPress]]
  
 All wikis are supposed to have a [[SandBox]], so this one does too.
+
+Meta:
+
+* [[README]]
+* [[LICENSE]]
