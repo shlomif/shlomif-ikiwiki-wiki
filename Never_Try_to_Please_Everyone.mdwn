@@ -27,3 +27,21 @@ Why should I Care What Color the Bikeshed is?
 
 
 </blockquote>
+
+# Attributed Quote by Linus Torvalds
+
+<blockquote>
+
+My most important job [as the leader of the Linux Kernel project] is to say “No.”.
+
+</blockquote>
+
+# Feature-creep / Featuritis
+
+[Feature creep](https://en.wikipedia.org/wiki/Feature_creep)
+
+<blockquote>
+
+Feature creep, creeping featurism or featuritis is the ongoing expansion or addition of new features in a product, such as in computer software. Extra features go beyond the basic function of the product and so can result in software bloat and over-complication rather than simple design.
+
+</blockquote>
