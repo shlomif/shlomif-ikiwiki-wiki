@@ -1,4 +1,4 @@
-Welcome to the wiki of [Shlomi Fish](http://www.shlomifish.org/) (a.k.a [“Rindolf”](http://www.shlomifish.org/me/rindolf/) ) based on ikiwiki. It is aimed at empowering collaborations (such as translations, copy-editing, derivative works, etc) in regards to the various public creations of Shlomi Fish ( http://www.shlomifish.org/ ), including his fiction works, non-fiction articles and essays, and technical documentation and software.
+Welcome to the wiki of [Shlomi Fish](http://www.shlomifish.org/) (a.k.a [“Rindolf”](http://www.shlomifish.org/me/rindolf/) ) based on ikiwiki. It is aimed at empowering collaborations (such as translations, copy-editing, derivative works, etc) in regards to the various public creations of Shlomi Fish ( [http://www.shlomifish.org/](http://www.shlomifish.org/) ), including his fiction works, non-fiction articles and essays, and technical documentation and software.
 
 * [[99 Problems]]
 * [[Encourage criticism and try to get offended]]
