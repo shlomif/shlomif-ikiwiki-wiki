@@ -45,3 +45,15 @@ My most important job [as the leader of the Linux Kernel project] is to say “N
 Feature creep, creeping featurism or featuritis is the ongoing expansion or addition of new features in a product, such as in computer software. Extra features go beyond the basic function of the product and so can result in software bloat and over-complication rather than simple design.
 
 </blockquote>
+
+# /r/programming feature: “What Have We Learned from This Open Source Project”
+
+[On /r/programming](https://www.reddit.com/r/programming/comments/44q1mb/what_have_we_learned_from_this_open_source_project/)
+
+[Original article](http://taskwarrior.org/docs/advice.html)
+
+<blockquote>
+
+Every change will ruin someone’s day. They will be sure to tell you about it. The same change will improve someone's day. You will not hear of this. 
+
+</blockquote>
