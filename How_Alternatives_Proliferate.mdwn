@@ -50,3 +50,7 @@ Title text: Fortunately, the charging one has been solved now that we&#39;ve all
 </p>
 
 </blockquote>
+
+-----------------------------
+
+[“An IDE that doesn't suck.”](http://www.shlomifish.org/humour/fortunes/show.cgi?id=sharp-sharp-programming-an-IDE-that-doesnt-Suck) - conversation from Freenode’s ##programming chatroom.
