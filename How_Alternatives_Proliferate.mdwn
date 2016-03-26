@@ -15,3 +15,38 @@ But the idea of unifying the mess of Visual Basic and Windows API programming by
 </p>
 
 </blockquote>
+
+----------------------
+
+xkcd: [“Standards”](https://xkcd.com/927/)
+
+<blockquote>
+
+<p>
+HOW STANDARDS PROLIFERATE
+</p>
+
+<p>
+(See: AC chargers, character encodings, instant messaging, etc.)
+</p>
+
+<p>
+SITUATION:
+There are 14 competing standards.
+</p>
+
+<p>
+Geek: 14?! Ridiculous! We need to develop one universal standard that covers everyone&#39;s use cases.<br />
+Fellow Geek: Yeah!
+</p>
+
+<p>
+Soon:<br />
+SITUATION: There are 15 competing standards.
+</p>
+
+<p>
+Title text: Fortunately, the charging one has been solved now that we&#39;ve all standardized on mini-USB. Or is it micro-USB? Shit.
+</p>
+
+</blockquote>
