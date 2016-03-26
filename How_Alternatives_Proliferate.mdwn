@@ -1,0 +1,17 @@
+Joel on Software at [“How Microsoft Lost the API War”](http://www.joelonsoftware.com/articles/APIWar.html) :
+
+<blockquote>
+
+<p>
+
+But the idea of unifying the mess of Visual Basic and Windows API programming by creating a completely new, ground-up programming environment with not one, not two, but three languages (or are there four?) is sort of like the idea of getting two quarreling kids to stop arguing by shouting "shut up!" louder than either of them. It only works on TV. In real life when you shout "shut up!" to two people arguing loudly you just create a louder three-way argument.
+
+</p>
+
+<p>
+
+(By the way, for those of you who follow the arcane but politically-charged world of blog syndication feed formats, you can see the same thing happening over there. RSS became fragmented with several different versions, inaccurate specs and lots of political fighting, and the attempt to clean everything up by creating yet another format called Atom has resulted in several different versions of RSS plus one version of Atom, inaccurate specs and lots of political fighting. When you try to unify two opposing forces by creating a third alternative, you just end up with three opposing forces. You haven't unified anything and you haven't really fixed anything.)
+
+</p>
+
+</blockquote>
