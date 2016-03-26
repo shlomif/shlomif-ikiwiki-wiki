@@ -54,3 +54,15 @@ Title text: Fortunately, the charging one has been solved now that we&#39;ve all
 -----------------------------
 
 [“An IDE that doesn't suck.”](http://www.shlomifish.org/humour/fortunes/show.cgi?id=sharp-sharp-programming-an-IDE-that-doesnt-Suck) - conversation from Freenode’s ##programming chatroom.
+
+-----------------------------
+
+Linas Vepstas in [“Call Center, Bug Tracking and Project Management Tools for Linux:”](http://linas.org/linux/pm.html) (which is an old page that is kept from historical reasons):
+
+<blockquote>
+
+<p>
+Note to Free Software Programmers: Please DO NOT create yet another project to implement some system! There are too many half-finished, half-functional systems already! Do some research, find a system that is appealing, and volunteer to carry it further! At first, this may seem less rewarding, because you won't be Mr. Super-Duper I-am-Head-of-the-Project Big-Shot Might-Be-Linus-Torvalds-Soul-Brother. But in the long run, you will find much more satisfaction from working on a project that everyone knows and respects, than being the sole author of and world-wide expert on some poopoo-kaka that no one has heard of. I speak from experience!
+</p>
+
+</blockquote>
