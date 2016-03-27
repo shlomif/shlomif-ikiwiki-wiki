@@ -98,3 +98,16 @@ The source-sharing tradition of the Unix world has always been friendly to code 
 </p>
 
 </blockquote>
+
+-------
+
+A motto that appeared on the site of [CPAN](http://www.cpan.org/), the Comprehensive Perl Archive Network:
+
+<blockquote>
+
+<p>
+Stop reinventing wheels, start building space rockets.
+</p>
+
+</blockquote>
+
