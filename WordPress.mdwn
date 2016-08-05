@@ -33,6 +33,10 @@
 >
 > <br />
 
+### “Why are most people bringing down WordPress?” on Reddit
+
+[Post](https://www.reddit.com/r/webdev/comments/4vqiij/just_a_newbie_question_why_are_most_people/d60nwme)
+
 ### “If Web Development Met the DMV”
 
 [Post](http://ihatethesoundsaroundme.com/2014/09/09/if-web-development-met-the-dmv/)
