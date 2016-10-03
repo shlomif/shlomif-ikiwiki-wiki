@@ -62,3 +62,13 @@ Feature creep, creeping featurism or featuritis is the ongoing expansion or addi
 Every change will ruin someone’s day. They will be sure to tell you about it. The same change will improve someone's day. You will not hear of this. 
 
 </blockquote>
+
+# Two kinds of programming languages
+
+<blockquote>
+
+There are only two kinds of [programming] languages: the ones people complain about and the ones nobody uses.
+
+</blockquote>
+
+— [Bjarne Stroustrup](https://en.wikiquote.org/wiki/Bjarne_Stroustrup)
