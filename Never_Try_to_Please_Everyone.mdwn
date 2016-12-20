@@ -72,3 +72,8 @@ There are only two kinds of [programming] languages: the ones people complain ab
 </blockquote>
 
 — [Bjarne Stroustrup](https://en.wikiquote.org/wiki/Bjarne_Stroustrup)
+
+# It's not about buying Video Games
+
+* [Twitter](https://twitter.com/blitzcloud/status/716396517179977730)
+* Via [a Reddit /r/gamedev thread](https://www.reddit.com/r/gamedev/comments/5b7hqr/daily_discussion_thread_rules_new_to_rgamedev/da8igxu/)
