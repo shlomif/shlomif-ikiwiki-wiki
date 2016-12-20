@@ -111,3 +111,15 @@ Stop reinventing wheels, start building space rockets.
 
 </blockquote>
 
+-------
+
+[Andrew S. Tannenbaum](https://en.wikiquote.org/wiki/Andrew_S._Tanenbaum) :
+
+
+<blockquote>
+
+<p>
+The nice thing about standards is that you have so many to choose from.
+</p>
+
+</blockquote>
