@@ -1,0 +1,17 @@
+# /dev/null is WebScale (an ongoing meme)
+
+## YouTube Video
+
+[MongoDB is Web Scale](https://www.youtube.com/watch?v=b2F-DItXtZs) - does /dev/null supports sharding?
+
+## /dev/null is WebScale
+
+[Discussion on ##programming](http://www.shlomifish.org/humour/fortunes/show.cgi?id=sharp-sharp-programming-dev-null-is-webscale)
+
+## NoSQL /dev/null discussion on #perl
+
+[NoSQL /dev/null](http://www.shlomifish.org/humour/fortunes/show.cgi?id=sharp-perl-nosql-dev-null)
+
+## /dev/null as a service
+
+[/dev/null as a service](https://devnull-as-a-service.com/)
