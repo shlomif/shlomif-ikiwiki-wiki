@@ -1,5 +1,11 @@
-1. [The Freenode's ##programming chatroom’s Frequently Asked Questions](https://github.com/shlomif/Freenode-programming-channel-FAQ/blob/master/FAQ.mdwn)
+## Introduction
 
+This document aims to collect some useful resources for learning about [Free and Open Source Software](https://en.wikipedia.org/wiki/Free_and_open-source_software).
+
+## Links
+
+1. [The Freenode's ##programming chatroom’s Frequently Asked Questions](https://github.com/shlomif/Freenode-programming-channel-FAQ/blob/master/FAQ.mdwn)
+https://en.wikipedia.org/wiki/Free_and_open-source_software
 2. [The Haifa Linux Club’s Lectures](http://haifux.org/)
 
 3. [The Tel Aviv Open Source Club’s Lectures](http://www.cs.tau.ac.il/telux/advanced.html)
@@ -9,3 +15,7 @@
 5. [“How to start contributing to or using Open Source Software”](http://old.teachingopensource.org/index.php/How_to_start_contributing_to_or_using_Open_Source_Software)
 
 6. [The Linux Documentation Project](http://tldp.org/) - somewhat outdated, but may prove of enlightenment. Especially see [this](http://tldp.org/HOWTO/Unix-and-Internet-Fundamentals-HOWTO/).
+
+## Credits
+
+Thanks to [this facebook post](https://www.facebook.com/groups/826292814153064/permalink/1378240248958315/) (which is mostly in Hebrew) for being the catalyst for inspiring this page.
