@@ -16,6 +16,8 @@ This document aims to collect some useful resources for learning about [Free and
 
 6. [The Linux Documentation Project](http://tldp.org/) - somewhat outdated, but may prove of enlightenment. Especially see [the Linux FAQ](http://www.tldp.org/FAQ/Linux-FAQ/) and [this](http://tldp.org/HOWTO/Unix-and-Internet-Fundamentals-HOWTO/).
 
+7. [Little Unix Programmers Group](http://web.archive.org/web/20070617231710/http://users.actcom.co.il/~choo/lupg/index.html) - tutorials and other resources about programming unix in C and other languages.
+
 ## Credits
 
 Thanks to [this facebook post](https://www.facebook.com/groups/826292814153064/permalink/1378240248958315/) (which is mostly in Hebrew) for being the catalyst for inspiring this page.
