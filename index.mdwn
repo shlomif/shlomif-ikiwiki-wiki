@@ -9,6 +9,7 @@ Welcome to the wiki of [Shlomi Fish](http://www.shlomifish.org/) (a.k.a [“Rind
 * [[Links against C++]]
 * [[Never Try to Please Everyone]]
 * [[No Consented Sexual Activity is Disrespectful]] 
+* [[Resources for Learning about Free and Open Source Software]]
 * [[Saladin Style]]
 * [[Self-Sufficiency]]
 * [[WordPress]]
