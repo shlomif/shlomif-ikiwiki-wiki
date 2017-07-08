@@ -3,3 +3,7 @@
 2. [The Haifa Linux Club’s Lectures](http://haifux.org/)
 
 3. [The Tel Aviv Open Source Club’s Lectures](http://www.cs.tau.ac.il/telux/advanced.html)
+
+4. [The Awesome Books Lists on GitHub](https://github.com/sindresorhus/awesome#books) - includes [a list of free programming books](https://github.com/EbookFoundation/free-programming-books).
+
+5. [“How to start contributing to or using Open Source Software”](http://old.teachingopensource.org/index.php/How_to_start_contributing_to_or_using_Open_Source_Software)
