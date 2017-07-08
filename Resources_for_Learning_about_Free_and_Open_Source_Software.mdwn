@@ -1,0 +1,5 @@
+1. [The Freenode's ##programming chatroom’s Frequently Asked Questions](https://github.com/shlomif/Freenode-programming-channel-FAQ/blob/master/FAQ.mdwn)
+
+2. [The Haifa Linux Club’s Lectures](http://haifux.org/)
+
+3. [The Tel Aviv Open Source Club’s Lectures](http://www.cs.tau.ac.il/telux/advanced.html)
