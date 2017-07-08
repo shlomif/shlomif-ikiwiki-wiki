@@ -7,3 +7,5 @@
 4. [The Awesome Books Lists on GitHub](https://github.com/sindresorhus/awesome#books) - includes [a list of free programming books](https://github.com/EbookFoundation/free-programming-books).
 
 5. [“How to start contributing to or using Open Source Software”](http://old.teachingopensource.org/index.php/How_to_start_contributing_to_or_using_Open_Source_Software)
+
+6. [The Linux Documentation Project](http://tldp.org/) - somewhat outdated, but may prove of enlightenment. Especially see [this](http://tldp.org/HOWTO/Unix-and-Internet-Fundamentals-HOWTO/).
