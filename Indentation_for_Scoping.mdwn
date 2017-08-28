@@ -1,0 +1,9 @@
+Python's use of indentation for scoping is problematic because:
+
+1. It prevents the use of multi-statement lambdas.
+2. It prevents writing many useful command line filters (a la perl -e '...', ruby -e '...', awk '...', etc.)
+3. It prevents embedding python within a text document (similar to PHP, [Mason](http://www.masonhq.com/), etc.)
+
+----
+
+[Guido von Rossum on designing a new language today](https://lwn.net/Articles/471797/) .
