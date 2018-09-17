@@ -15,3 +15,7 @@
 ## /dev/null as a service
 
 [/dev/null as a service](https://devnull-as-a-service.com/)
+
+### Conversation with Hans
+
+[MongoDB vs /dev/null](https://www.shlomifish.org/humour/fortunes/show.cgi?id=mongodb-vs-dev-null)
