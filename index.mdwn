@@ -14,6 +14,7 @@ Welcome to the wiki of [Shlomi Fish](http://www.shlomifish.org/) (a.k.a [“Rind
 * [[Resources for Learning about Free and Open Source Software]]
 * [[Saladin Style]]
 * [[Self-Sufficiency]]
+* [[Unix Philosophy of One Tool for One Job]]
 * [[WordPress]]
  
 All wikis are supposed to have a [[SandBox]], so this one does too.
