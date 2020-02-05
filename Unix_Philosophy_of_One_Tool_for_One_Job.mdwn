@@ -25,3 +25,30 @@ Rob Pike: Those days are dead and gone and the eulogy was delivered by Perl.
 </blockquote>
 
 [Slashdot Interview](https://interviews.slashdot.org/story/04/10/18/1153211/rob-pike-responds)
+
+# Don Marti about the Unix Philosophy
+
+I don't get the "Unix Philosophy" thing.
+
+Posts about "this functionality is broken on systemd
+but not OpenRC" are great, but "Unix Philosophy"?
+What did that get us? A bunch of failing vendors in
+the 1990s, and the inevitability of Windows NT.
+
+<http://gabriellacoleman.org/blog/?p=1729>
+
+The "philosophers" of Unix let themselves be rounded
+up and made irrelevant.
+
+If you want to build a better init system, build a
+better init system. But philosophy-based OS advocacy
+is a failure. Designing working software based on
+philsophy is like writing real network software based
+on the OSI 7-layer burrito model.
+
+(Nothing against Rick's article.
+<http://linuxmafia.com/kb/Debian/openrc-conversion.html>
+I enjoyed reading it. No philosophy, which I
+appreciate.)
+
+— [Post to the linux-elitists mailing list](https://linux-elitists.zgp.narkive.com/XC079Jss/how-about-a-fork-of-jessie-without-systemd#post54)
