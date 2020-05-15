@@ -60,3 +60,15 @@ Or think about shell programming, and reductionism. How many times have we heard
 Well...Perl does one thing, and does it well. What it does well is to integrate all its features into one language. More importantly, it does this without making them all look like each other. Ducts shouldn't look like girders, and girders shouldn't look like ducts. Neither of those should look like water pipes, and it's really important that water pipes not look like sewer pipes. Or smell like sewer pipes. Modernism says that we should make all these things look the same (and preferably invisible). Postmodernism says it's okay for them to stick out, and to look different, because a duct ought to look like a duct, and a sewer pipe ought to look like a sewer pipe, and hammer ought to look like a hammer, and a telephone ought to look like either a telephone, or a Star Trek communicator. Things that are different should look different. 
 
 — [Perl, the first postmodern computer language](http://wall.org/~larry/pm.html) .
+
+# Jokes
+
+## "The UNIX Philosopy" on The Daily WTF
+
+<https://thedailywtf.com/articles/The_UNIX_Philosophy>
+
+<blockquote>
+
+Changing the above code to <code>my $filesize = -s $file;</code> cut 75 minutes off the average execution time.
+
+<blockquote>
