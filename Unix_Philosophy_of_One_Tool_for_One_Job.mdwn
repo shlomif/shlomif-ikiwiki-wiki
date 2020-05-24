@@ -61,6 +61,10 @@ Well...Perl does one thing, and does it well. What it does well is to integrate 
 
 — [Perl, the first postmodern computer language](http://wall.org/~larry/pm.html) .
 
+# A discussion on GitHub
+
+[primesieve Pull Request No. 89](https://github.com/kimwalisch/primesieve/pull/89)
+
 # Jokes
 
 ## "The UNIX Philosopy" on The Daily WTF
