@@ -162,4 +162,4 @@ going to be popular.
 # Jokes
 
 * [BBspot - “Number of Linux Distributions Surpasses Number of Users”](http://www.bbspot.com/News/2000/4/linux_distros.html)
-* [“The Free Software Foundation (FSF) Announces New Versions of the GPL"](https://www.shlomifish.org/humour/bits/New-versions-of-the-GPL/) (inspired by the [GPLv2 vs GPLv3 compatibility issues](https://en.wikipedia.org/wiki/GNU_General_Public_License)).
+* [“The Free Software Foundation (FSF) Announces New Versions of the GPL”](https://www.shlomifish.org/humour/bits/New-versions-of-the-GPL/) (inspired by the [GPLv2 vs GPLv3 compatibility issues](https://en.wikipedia.org/wiki/GNU_General_Public_License)).
