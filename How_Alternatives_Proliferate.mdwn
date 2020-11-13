@@ -74,7 +74,7 @@ Eric S. Raymond in [The Cathedral and the Bazaar](http://catb.org/~esr/writings/
 <blockquote>
 
 <p>
-So, did I immediately launch into a furious whirl of coding up a brand-new POP3 client to compete with the existing ones? Not on your life! I looked carefully at the POP utilities I had in hand, asking myself ``Which one is closest to what I want?'' Because:
+So, did I immediately launch into a furious whirl of coding up a brand-new POP3 client to compete with the existing ones? Not on your life! I looked carefully at the POP utilities I had in hand, asking myself “Which one is closest to what I want?” Because:
 </p>
 
 <p>
@@ -120,6 +120,39 @@ Stop reinventing wheels, start building space rockets.
 
 <p>
 The nice thing about standards is that you have so many to choose from.
+</p>
+
+</blockquote>
+
+-------
+
+[“We’re Gonna Build a Framework”](https://www.youtube.com/watch?v=Wm2h0cbvsw8) by Dylan Beattie:
+
+<blockquote>
+
+<p>
+We’re Gonna Build a Framework<br />
+cause we want to use one but we don’t wanna choose one<br />
+We’re Gonna Build a Framework<br />
+We didn't like the others, so we made another<br />
+</p>
+
+</blockquote>
+
+-------
+
+[“The Despair of a Static Site Generator Creator”](https://github.com/shlomif/shlomif-tech-diary/blob/master/static-site-generators--despair.md) by Dylan Beattie:
+
+<blockquote>
+
+<p>
+The main take-away from this essay is that I cannot in good conscience
+recommend against writing your own custom/ad-hoc/home-grown
+[static site generator](https://davidwalsh.name/introduction-static-site-generators) ("SSG")
+based on some lower-level tools, rather than going through the trouble of
+learning an existing open source one. Feel free to publish your own creation as
+open source as well, but you should anticipate that it is most probably not
+going to be popular.
 </p>
 
 </blockquote>
