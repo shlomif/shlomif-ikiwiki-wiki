@@ -128,3 +128,60 @@ No need to apologize. You did nothing wrong. Everyone (who isn’t a sociopath, 
 </blockquote>
 
 -- Jeannette
+
+# Excerpt from Selina Mandrake - The Slayer
+
+<blockquote>
+            <div class="saying">
+              <p><strong class="sayer">D’Artagnan:</strong> Milady, que se passe-t-il? <span class="inlinedesc">[ = “Milady, what’s the matter?” ]</span></p>
+            </div>
+            <div class="saying">
+              <p><strong class="sayer">Milady Kate:</strong> Rien <span class="inlinedesc">[ = “nothing”. She is crying.]</span>.
+</p>
+            </div>
+            <div class="saying">
+              <p><strong class="sayer">D’Artagnan:</strong> Il y a évidemment quelque chose qui ne va pas. Pourquoi
+pleurez-vous? <span class="inlinedesc">[ = “something is obviously the matter. Why are you crying?”]</span></p>
+            </div>
+            <div class="saying">
+              <p><strong class="sayer">Milady Kate:</strong> D’accord. Comme je ne porte plus le deuil et que je
+semble heureuse, les autres femmes croient que j’ai tué mon mari.
+<span class="inlinedesc">[ = “OK. The other women think I killed my husband because I’m now
+no longer grieving and because I seem happy.”]</span></p>
+            </div>
+            <div class="saying">
+              <p><strong class="sayer">D’Artagnan:</strong> Sottises! On peut à la fois être triste et heureux pour
+des raisons différentes. <span class="inlinedesc">[ = “nonsense. You can be sad and happy at the same
+time, for two different things.” ]</span></p>
+            </div>
+            <div class="saying">
+              <p><strong class="sayer">Milady Kate:</strong> Oui, oui. <span class="inlinedesc">[ = “yes. yes.”]</span></p>
+            </div>
+            <div class="saying">
+              <p><strong class="sayer">D’Artagnan:</strong> Laissez-moi vous dire ceci <span class="inlinedesc">[takes her hands]</span>.  Je
+comprends que vous soyez troublée, mais sachez que ces personnes ne
+vous veulent que du tort et vous ne devriez pas laisser les paroles
+grossières ou méprisantes vous affecter. Vous valez mieux que ça.
+<span class="inlinedesc">[= “Let me tell you this . It’s OK to receive insults,
+it’s OK to be offended, but you need to know that ultimately the other person
+just does not mean well, and that you should not get them
+to hurt you. You’re better than that.”]</span></p>
+            </div>
+            <div class="saying">
+              <p><strong class="sayer">Milady Kate:</strong> M. d’Artagnan, vous êtes très sage pour votre âge.
+<span class="inlinedesc">[= “M. d’Artagnan, you are quite wise for your age.”]</span></p>
+            </div>
+            <div class="saying">
+              <p><strong class="sayer">D’Artagnan:</strong> Merci, Milady. Je tâcherai que ça ne me monte pas à la
+tête. <span class="inlinedesc">[= “Thank you, Milady. I will not let it go to my head.”]</span></p>
+            </div>
+            <div class="description">
+              <p>
+            [
+        They both smile.
+            ]
+        </p>
+            </div>
+</blockquote>
+
+-- <https://www.shlomifish.org/humour/Selina-Mandrake/>
