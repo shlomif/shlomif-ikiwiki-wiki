@@ -12,6 +12,7 @@ Welcome to the wiki of [Shlomi Fish](http://www.shlomifish.org/) (a.k.a [“Rind
 * [[Never Try to Please Everyone]]
 * [[No Consented Sexual Activity is Disrespectful]] 
 * [[Resources for Learning about Free and Open Source Software]]
+* [[Rules are Just Guidelines]]
 * [[Saladin Style]]
 * [[Self-Sufficiency]]
 * [[Unix Philosophy of One Tool for One Job]]
