@@ -141,7 +141,7 @@ We didn't like the others, so we made another<br />
 
 -------
 
-[“The Despair of a Static Site Generator Creator”](https://github.com/shlomif/shlomif-tech-diary/blob/master/static-site-generators--despair.md) by Dylan Beattie:
+[“The Despair of a Static Site Generator Creator”](https://github.com/shlomif/shlomif-tech-diary/blob/master/static-site-generators--despair.md) by Shlomi Fish:
 
 <blockquote>
 
