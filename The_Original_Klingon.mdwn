@@ -1,5 +1,7 @@
 [You can never truly appreciate Hamlet until you have read it in the original Klingon](https://en.wikipedia.org/wiki/The_Klingon_Hamlet)
 
+----
+
 ```
    <rindolf>  "Who's the idiot that wrote this code?"
    <rindolf>  That's what many people say when looking at their old code.
