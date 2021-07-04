@@ -15,6 +15,7 @@ Welcome to the wiki of [Shlomi Fish](http://www.shlomifish.org/) (a.k.a [“Rind
 * [[Rules are Just Guidelines]]
 * [[Saladin Style]]
 * [[Self-Sufficiency]]
+* [[The Original Klingon]]
 * [[Unix Philosophy of One Tool for One Job]]
 * [[WordPress]]
  
