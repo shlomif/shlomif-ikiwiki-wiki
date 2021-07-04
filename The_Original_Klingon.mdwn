@@ -1,1 +1,20 @@
 [You can never truly appreciate Hamlet until you have read it in the original Klingon](https://en.wikipedia.org/wiki/The_Klingon_Hamlet)
+
+```
+   <rindolf>  "Who's the idiot that wrote this code?"
+   <rindolf>  That's what many people say when looking at their old code.
+ <jkauffman>  "I can't believe I used to listen to this crap"
+ <jkauffman>  that's what people say when they look back at their old
+              music collection
+   <rindolf>  jkauffman: I don't usually.
+   <rindolf>  jkauffman: I am however, a bit ashamed of some of the shows
+              I liked when I was younger.
+   <rindolf>  jkauffman: they seem a bit cheesy now.
+ <jkauffman>  yes, you're onto such better things now that you can fully
+              appreciate The Gilmore Girls
+   <rindolf>  jkauffman: you can never truly appreciate The Gilmore Girls
+              until you've watched it in the original Klingon.
+
+    -- Looking Back at Your Old Habits
+    -- #perlcafe, Freenode
+```
