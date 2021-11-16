@@ -8,6 +8,7 @@ Welcome to the wiki of [Shlomi Fish](http://www.shlomifish.org/) (a.k.a [“Rind
 * [[Hackers and Action Heroes]]
 * [[How Alternatives Proliferate]]
 * [[Indentation for Scoping]] - like Python's.
+* [[Importance of Having Doubts]]
 * [[Links against C++]]
 * [[Never Try to Please Everyone]]
 * [[No Consented Sexual Activity is Disrespectful]] 
