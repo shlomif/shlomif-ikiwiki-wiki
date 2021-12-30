@@ -10,6 +10,7 @@ Welcome to the wiki of [Shlomi Fish](http://www.shlomifish.org/) (a.k.a [“Rind
 * [[Indentation for Scoping]] - like Python's.
 * [[Importance of Having Doubts]]
 * [[Links against C++]]
+* [[Missiles vs Melee Motif]]
 * [[Never Try to Please Everyone]]
 * [[No Consented Sexual Activity is Disrespectful]] 
 * [[Resources for Learning about Free and Open Source Software]]
