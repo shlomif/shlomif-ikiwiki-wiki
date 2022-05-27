@@ -37,6 +37,9 @@ Why should I Care What Color the Bikeshed is?
 * [Fan Lyric Video](https://www.youtube.com/watch?v=omyAL5HrUGo)
 * [Lyrics as text from Metro Lyrics](http://www.metrolyrics.com/keep-on-singing-my-song-lyrics-christina-aguilera.html)
 
+# The song "Renegade" by Cimorelli
+
+* <https://www.youtube.com/watch?v=FktDDKNrWjk> - "I'm going to do it my way"
 # Attributed Quote by Linus Torvalds
 
 <blockquote>
@@ -189,3 +192,4 @@ tête. <span class="inlinedesc">[= “Thank you, Milady. I will not let it go to
 </blockquote>
 
 -- <https://www.shlomifish.org/humour/Selina-Mandrake/>
+
