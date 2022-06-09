@@ -40,6 +40,7 @@ Why should I Care What Color the Bikeshed is?
 # The song "Renegade" by Cimorelli
 
 * <https://www.youtube.com/watch?v=FktDDKNrWjk> - "I'm going to do it my way"
+
 # Attributed Quote by Linus Torvalds
 
 <blockquote>
