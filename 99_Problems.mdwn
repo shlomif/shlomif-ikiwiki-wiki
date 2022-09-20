@@ -115,6 +115,7 @@
 
 * [“Chuck Norris has 99 problems including a bitch.”](http://www.shlomifish.org/humour/fortunes/show.cgi?id=shlomif-fact-chuck-86)
 * [“Chuck Norris has 99 problems including a bitch. Summer Glau has exactly 98 problems.”](http://www.shlomifish.org/humour/fortunes/show.cgi?id=shlomif-fact-sglau-13)
+* [“Chuck Norris has 99 problems including a bitch. Summer Glau has exactly 98 problems. And Chuck ain't one of them.”](https://www.shlomifish.org/humour/fortunes/show.cgi?id=shlomif-fact-sglau-34)
 
 ## #perl-cats "In Soviet Russia" Fortune
 
