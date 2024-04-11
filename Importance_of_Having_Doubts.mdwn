@@ -5,3 +5,37 @@
 “The fundamental cause of the trouble is that in the modern world the stupid are cocksure while the intelligent are full of doubt.” — [Bertrand Russell](https://en.wikiquote.org/wiki/Bertrand_Russell)
 
 ( Shlomi Fish thinks that having doubts likely plays a part in making people wiser.)
+
+----
+
+Shlomi Fish:
+
+<blockquote>
+<p>A lecture or two ago, when Guy Keren was saying
+that linux would never ever be a gaming platform i tried to
+point out he was wrong, and it's actually doing OK, and
+everyone looked at me like i'm crazy.</p>  </blockquote>
+
+<p> Some rules of thumb I tweeted about recently: </p>
+
+<ol>
+
+<li> If someone tells you something is impossible and you
+can't do it, it probably can be done.  </li>
+
+<li> If someone tells you something will *surely* never
+happen, it likely can happen.  </li>
+
+<li> If someone tells you are an idiot and are definitely
+wrong, then you probably uncovered an <a
+href="http://en.wikipedia.org/wiki/Elephant_in_the_room">Elephant
+in the Room</a> and are right. Also see <a
+href="http://shlomifishswiki.branchable.com/Encourage_criticism_and_try_to_get_offended/">“Encourage
+criticism and try to get offended”</a>.  </li>
+
+</ol>
+
+<p> In general, people who are sure of themselves are probably
+wrong, as I am not even sure of the <a
+href="http://en.wikipedia.org/wiki/Aristotle#Logic">Aristotlean
+Logic</a> which got us incredibly far.  </p>
